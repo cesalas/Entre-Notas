@@ -240,7 +240,7 @@ margin: 0 auto;
     }
     .banner1 .content,
     .banner2 .content{
-        width: 130%;
+        width: 100%;
         height:90%
     }
     .footer-links .footer-container{
