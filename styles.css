@@ -240,7 +240,7 @@ margin: 0 auto;
     }
     .banner1 .content,
     .banner2 .content{
-        width: 90%;
+        width: 100%;
     }
     .footer-links .footer-container{
         grid-template-columns: repeat(2, 1fr);
