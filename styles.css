@@ -129,34 +129,34 @@ ul {
     text-decoration: underline;
 }
 /*Banner 1*/
-.banner1 {
+.banner1i {
     width: 100%;
     height: 350px;
     background: url(./img/banner1.png) no-repeat center/cover;
     margin-bottom: 40px;
     align-items: center;
 }
-.banner1 .content{
-    width: 40%;
-    padding: 90px 0 0 30px;
-    color: white;
-}
-.banner1 p,
-.banner1 h2 {
-    margin: 10px 0 20px 0;
-}
-/*banner 2*/
-.banner2{
-    width: 100%;
-    height: 350px;
-    background: url(./img/banner2.png) no-repeat center center/cover;
-}
-.banner2 .content{
+.banner1i .content{
     width: 50%;
     padding: 100px 0 0 30px;
     color: white;
 }
-/*social*/
+.banner1i p,
+.banner1i h2 {
+    margin: 10px 0 20px 0;
+}
+/*banner 2 index*/
+.banner2i{
+    width: 100%;
+    height: 350px;
+    background: url(./img/banner2.png) no-repeat center center/cover;
+}
+.banner2i .content{
+    width: 50%;
+    padding: 100px 0 0 30px;
+    color: white;
+}
+/*social index*/
 .social{
     margin: 50px;
 }
