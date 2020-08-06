@@ -206,6 +206,22 @@ margin: 0 auto;
     text-align: center;
     padding-bottom: 20px;
 }
+.reto{
+    align-items: center;
+    font-size: 25px;
+    margin:20px 10px;
+    text-align: center;
+}
+.reto h2{
+    margin:20px 10px;
+    font-size: 20px;  
+}
+.regresar{
+    align-items: left;
+    margin:30px 30px;
+    font-size: 40px; 
+}
+
 /*Responsive*/
 @media (max-width: 700px){
 .menu-btn{
@@ -240,8 +256,7 @@ margin: 0 auto;
     }
     .banner1 .content,
     .banner2 .content{
-        width: 100%;
-        text-align: justify;
+        width: 80%;
     }
     .footer-links .footer-container{
         grid-template-columns: repeat(2, 1fr);
