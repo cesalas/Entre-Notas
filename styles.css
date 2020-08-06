@@ -278,8 +278,8 @@ margin: 0 auto;
     .interes{
         grid-template-columns: repeat(2, 1fr);
     }
-    .banner1 .content,
-    .banner2 .content{
+    .banner1i .content,
+    .banner2i .content{
         width: 80%;
     }
     .footer-links .footer-container{
