@@ -261,11 +261,11 @@ margin: 0 auto;
         height: 100%;
         padding: 30px;
         opacity: .9;
-        transform: translatex(-20);
+        transform: translatex(-20px);
         transition: transform .5s ease-in-out;
     }
     .nav-main ul.nav-menu.show{
-        transform: translateX(-400);
+        transform: translateX(-400px);
     }
     .nav-main ul.nav-menu li {
         padding: 20px;
